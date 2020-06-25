@@ -1,0 +1,85 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WhatsApp Link\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-25 21:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. Description of the plugin
+msgid ""
+"A simple plugin to display a WhatsApp link at the bottom of all public pages "
+"of a WordPress Website."
+msgstr ""
+
+#: admin/class-whatsapp-link-admin.php:144
+msgid "Band message"
+msgstr ""
+
+#: admin/class-whatsapp-link-admin.php:136
+msgid "Band title"
+msgstr ""
+
+#: public/partials/whatsapp-link-public-display.php:19
+msgid "Chat with us"
+msgstr ""
+
+#: public/partials/whatsapp-link-public-display.php:18
+msgid "Contact"
+msgstr ""
+
+#: admin/class-whatsapp-link-admin.php:119
+msgid "Destination phone number"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/vizapata"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/vizapata/whatsapp-link"
+msgstr ""
+
+#: admin/class-whatsapp-link-admin.php:128
+msgid "Initial text"
+msgstr ""
+
+#: admin/class-whatsapp-link-admin.php:158
+msgid "Remember include the country code. ie. <strong>57</strong>1234567890"
+msgstr ""
+
+#: admin/class-whatsapp-link-admin.php:185
+msgid "Short description for the chat band"
+msgstr ""
+
+#: admin/class-whatsapp-link-admin.php:167
+msgid "The text used to start the conversation"
+msgstr ""
+
+#: admin/class-whatsapp-link-admin.php:176
+msgid "Title displayed in the chat band"
+msgstr ""
+
+#. Author of the plugin
+msgid "Victor Zapata"
+msgstr ""
+
+#. Name of the plugin
+msgid "WhatsApp Link"
+msgstr ""
+
+#: admin/class-whatsapp-link-admin.php:68 
+#: admin/class-whatsapp-link-admin.php:84 
+#: admin/class-whatsapp-link-admin.php:85 
+#: admin/class-whatsapp-link-admin.php:112
+msgid "WhatsApp Settings"
+msgstr ""

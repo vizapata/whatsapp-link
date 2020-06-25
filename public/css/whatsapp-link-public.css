@@ -1,0 +1,90 @@
+:root {
+  --ws-color-1: #25d366;
+  --ws-color-2: #075e55;
+  --ws-color-3: #455a64;
+}
+
+.ws-link-band {
+  animation: show-ws 5s ease-in;
+  background: var(--ws-color-1);
+  bottom: 0;
+  color: #fff;
+  display: block;
+  font-size: 1.1em;
+  line-height: 1.3;
+  padding: 5px 10px;
+  position: fixed;
+  transform: translate3d(0, 0, 0);
+  width: 100%;
+  z-index: 9999;
+}
+
+.ws-link-band .icon {
+  background-image: url(../images/whatsapp-icon-logo.png);
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+  float: right;
+  font-size: 25pt;
+  height: 50px;
+  margin: 5px 20px;
+  width: 50px;
+}
+
+.ws-link-band small {
+  font-size: .9em;
+  font-weight: 300;
+}
+
+.ws-link-band a, .ws-link-band a:hover, .ws-link-band a:link {
+  color: #fff !important;
+  display: block;
+  text-decoration: none;
+}
+
+.ws-link-title {
+  display: block;
+  font-size: 1.3em;
+  font-weight: 700;
+}
+
+.ws-link-desc {
+  display: block;
+  padding: 3px 0;
+}
+
+@media all and (min-width:416px) {
+  .ws-link-band {
+    background: var(--ws-color-3);
+    border-radius: 10px 10px 0 0;
+    box-shadow: 1px -1px 3px #083530;
+    min-width: 250px;
+    right: 50px;
+    width: auto
+  }
+  .ws-link-band .icon {
+    background-size: 36px 36px;
+    height: 36px;
+    width: 36px;
+  }
+  .ws-link-band .icon {
+    margin: 5px;
+  }
+}
+@keyframes show-ws{
+  100%{transform:translate3d(0,0,0)}
+  0%,84%{transform:translate3d(0,100px,0)}
+}
+.ws-link-band:hover .icon{animation:ws-shake .5s}
+@keyframes ws-shake{
+  0%{transform:translate(2px,0)}
+  10%{transform:translate(3px,0)}
+  20%{transform:translate(2px,0)}
+  30%{transform:translate(0,0)}
+  40%{transform:translate(-1px,0)}
+  50%{transform:translate(-3px,0)}
+  60%{transform:translate(-2px,0)}
+  70%{transform:translate(0,0)}
+  80%{transform:translate(2px,0)}
+  90%{transform:translate(3px,0)}
+  100%{transform:translate(2px,0)}
+}

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WhatsApp Link\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-25 20:57+0000\n"
+"PO-Revision-Date: 2020-06-25 21:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. Description of the plugin
+msgid ""
+"A simple plugin to display a WhatsApp link at the bottom of all public pages "
+"of a WordPress Website."
+msgstr ""
+"A simple plugin to display a WhatsApp link at the bottom of all public pages "
+"of a WordPress Website."
+
+#: admin/class-whatsapp-link-admin.php:144
+msgid "Band message"
+msgstr "Band message"
+
+#: admin/class-whatsapp-link-admin.php:136
+msgid "Band title"
+msgstr "Band title"
+
+#: public/partials/whatsapp-link-public-display.php:19
+msgid "Chat with us"
+msgstr "Chat with us"
+
+#: public/partials/whatsapp-link-public-display.php:18
+msgid "Contact"
+msgstr "Contact"
+
+#: admin/class-whatsapp-link-admin.php:119
+msgid "Destination phone number"
+msgstr "Destination phone number"
+
+#. Author URI of the plugin
+msgid "https://github.com/vizapata"
+msgstr "https://github.com/vizapata"
+
+#. URI of the plugin
+msgid "https://github.com/vizapata/whatsapp-link"
+msgstr "https://github.com/vizapata/whatsapp-link"
+
+#: admin/class-whatsapp-link-admin.php:128
+msgid "Initial text"
+msgstr "Initial text"
+
+#: admin/class-whatsapp-link-admin.php:158
+msgid "Remember include the country code. ie. <strong>57</strong>1234567890"
+msgstr "Remember include the country code. ie. <strong>57</strong>1234567890"
+
+#: admin/class-whatsapp-link-admin.php:185
+msgid "Short description for the chat band"
+msgstr "Short description for the chat band"
+
+#: admin/class-whatsapp-link-admin.php:167
+msgid "The text used to start the conversation"
+msgstr "The text used to start the conversation"
+
+#: admin/class-whatsapp-link-admin.php:176
+msgid "Title displayed in the chat band"
+msgstr "Title displayed in the chat band"
+
+#. Author of the plugin
+msgid "Victor Zapata"
+msgstr "Victor Zapata"
+
+#. Name of the plugin
+msgid "WhatsApp Link"
+msgstr "WhatsApp Link"
+
+#: admin/class-whatsapp-link-admin.php:68 
+#: admin/class-whatsapp-link-admin.php:84 
+#: admin/class-whatsapp-link-admin.php:85 
+#: admin/class-whatsapp-link-admin.php:112
+msgid "WhatsApp Settings"
+msgstr "WhatsApp Settings"
