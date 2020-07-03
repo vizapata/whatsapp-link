@@ -5,6 +5,7 @@
 - Requires at least: 3.0.1
 - Tested up to: 5.4
 - Stable tag: 4.3
+- Requires PHP: 5.4
 - License: GNU General Public License v3.0
 - License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -38,7 +39,17 @@ The style has no another styling settings. The initial intention is keep it as m
 
 ## Screenshots
 
-![screenshot](screenshot-1.png)
+- Admin settings
+
+![screenshot](assets/screenshot-1.png)
+
+- Public view (Desktop Version)
+
+![screenshot](assets/screenshot-2.png)
+
+- Public view (Mobile Version)
+
+![screenshot](assets/screenshot-3.png)
 
 ## Thanks
 
